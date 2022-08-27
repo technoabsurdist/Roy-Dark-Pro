@@ -1,0 +1,21 @@
+{
+  "name": "EMI",
+  "displayName": "EMIDarkTheme",
+  "description": "Edited Atom One Dark to more minimal and beautiful settings. ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Roy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Roy-color-theme.json"
+      }
+    ]
+  }
+}
