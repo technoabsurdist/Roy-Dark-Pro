@@ -2,6 +2,9 @@
 
 # My own VSCode theme cause most suck. 
 
+<img width="1169" alt="Screen Shot 2022-08-27 at 17 32 36" src="https://user-images.githubusercontent.com/92827957/187052729-bf96e34d-3d0a-43da-8761-45ee17422fc2.png">
+
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
